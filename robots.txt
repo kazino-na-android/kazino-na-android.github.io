@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-na-android.github.io
+Sitemap: https://kazino-na-android.github.io/sitemap.xml
